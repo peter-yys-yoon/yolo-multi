@@ -1,0 +1,6 @@
+checkpoints
+output
+data
+__pycache__
+weights
+logs

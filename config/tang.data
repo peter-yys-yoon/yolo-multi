@@ -1,0 +1,6 @@
+classes= 80
+train=./data/tang/train.txt
+valid=./data/tang/val.txt
+names=data/coco.names
+backup=backup/
+eval=coco

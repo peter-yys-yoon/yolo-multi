@@ -1,0 +1,17 @@
+
+ 2086  conda install tensorflow-gpu=1.8.0
+ 2089  pip install ascitable
+ 2093  pip install terminaltables
+ 2096  pip install torch==1.1.0
+ 2097  pip install torchvision=0.2.0
+
+
+
+
+ckpt30 0.86%
+ckpt35 0.98%
+ckpt40 0.23%
+ckpt45 0.97%
+ckpt50 0.97%
+ckpt59 0.57%
+ckpt60 0.81%

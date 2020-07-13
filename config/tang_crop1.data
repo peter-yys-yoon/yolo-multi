@@ -1,0 +1,6 @@
+classes= 80
+train=/home/peter/workspace/dataset/lotte20/coco-er/crop1/train/samples.txt
+valid=/home/peter/workspace/dataset/lotte20/coco-er/crop1/val/samples.txt
+names=data/coco.names
+backup=backup/
+eval=coco
